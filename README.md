@@ -73,7 +73,7 @@ The dashboard helps management identify high-value medicines, monitor profitabil
 
 ### Executive Sales & Inventory Overview
 
-![Executive Dashboard](Screenshots/Executive_Dashboard.png)
+![Executive Dashboard](https://github.com/Tanaji-25/Medical-Inventory-Management-Dashboard/blob/main/Executive%20Sales%20%26%20Inventory%20Overview.png)
 
 ### Demand and Formulation Effiiciency
 
