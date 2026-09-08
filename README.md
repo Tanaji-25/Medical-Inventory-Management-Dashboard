@@ -75,10 +75,10 @@ The dashboard helps management identify high-value medicines, monitor profitabil
 
 ![Executive Dashboard](Screenshots/Executive_Dashboard.png)
 
-### Inventory Analysis
+### Demand and Formulation Effiiciency
 
-![Inventory Analysis](Screenshots/Inventory_Analysis.png)
+![Demand and Formulation Effiiciency](Screenshots/Inventory_Analysis.png)
 
-### Sales & Profit Analysis
+### Patient and Department Focus
 
-![Sales & Profit Analysis](Screenshots/Sales_Profit_Analysis.png)
+![Patient and Department Focus](Screenshots/Sales_Profit_Analysis.png)
