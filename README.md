@@ -81,4 +81,4 @@ The dashboard helps management identify high-value medicines, monitor profitabil
 
 ### Patient and Department Focus
 
-![Patient and Department Focus](Screenshots/Sales_Profit_Analysis.png)
+![Patient and Department Focus](https://github.com/Tanaji-25/Medical-Inventory-Management-Dashboard/blob/main/Patient%20and%20Department%20Focus.png)
