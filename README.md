@@ -77,7 +77,7 @@ The dashboard helps management identify high-value medicines, monitor profitabil
 
 ### Demand and Formulation Effiiciency
 
-![Demand and Formulation Effiiciency](Screenshots/Inventory_Analysis.png)
+![Demand and Formulation Effiiciency](https://github.com/Tanaji-25/Medical-Inventory-Management-Dashboard/blob/main/Demand%20and%20Formulation%20Effiiciency.png)
 
 ### Patient and Department Focus
 
